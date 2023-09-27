@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Štěpán Žďánský</h1>
 <h3 align="center">I’m IT student from Czechia</h3>
 
-- 🌱 I’m currently learning **Javascript**,**Java**
+- 🌱 I’m currently learning **Javascript****,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
