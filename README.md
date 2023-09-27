@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biggy61&show_icons=true&locale=en&layout=compact" alt="biggy61" /></p>
 
 
+![cat-spinning](https://github.com/Biggy61/Biggy61/assets/115619109/a42c3f99-4573-45c1-bb52-f783d332c795)
