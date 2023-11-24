@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SPSMB hra**
 
-- 🌱 I’m currently learning Java, Javascript**
+- 🌱 I’m currently learning **Java, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
