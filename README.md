@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **SPSMB hra**
+- 🔭 I’m currently working on **Rally mechanic game**
 
 - 🌱 I’m currently learning **Java, Javascript**
 
