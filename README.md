@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Rally mechanic game, Custom websites**
+- 🔭 I’m currently working on **Games**
 
-- 🌱 I’m currently learning **Java, Javascript**
+- 🌱 I’m currently learning **C++, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
