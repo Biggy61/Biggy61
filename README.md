@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Games**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**, **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
