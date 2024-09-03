@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on **Pizza website**
+- 🔭 I’m currently working on **Ročníková práce**
 
-- 🌱 I’m currently learning **Javascript**, **React**
+- 🌱 I’m currently learning **Javascript**, **React**, **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
