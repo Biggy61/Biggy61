@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Ročníková práce**
+- 🔭 I’m currently working on **Ročníková práce :))))))))))))))**
 
 - 🌱 I’m currently learning **Javascript**, **React**, **C#**
 
