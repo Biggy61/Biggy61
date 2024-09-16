@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ročníková práce :))))))))))))))**
 
-- 🌱 I’m currently learning **Javascript**, **React**, **C#**
+- 🌱 I’m currently learning **Javascript**, **React**, **C#**, **Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
 
