@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Javascript**, **React**, **C#**, **Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Biggy61?tab=repositories](https://github.com/Biggy61?tab=repositories)
-
 - 📫 How to reach me **zdanskystepan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
