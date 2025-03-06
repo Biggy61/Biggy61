@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ročníková práce :))))))))))))))**
 
-- 🌱 I’m currently learning **C#**, **JavaScript**, **C++**, **Unity**
+- 🌱 I’m currently learning **C#**, **Unity**, *C++** 
 
 - 📫 How to reach me **zdanskystepan@gmail.com**
 
