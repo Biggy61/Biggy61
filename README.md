@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Štěpán Žďánský</h1>
+<h1 align="center">Štěpán Žďánský</h1>
 <h3 align="center">IT student from Czechia</h3>
 
+- 🌱 I’m currently learning **C#**, **Unity**, **C++** 
 
-
-- 🔭 I’m currently working on **Ročníková práce :))))))))))))))**
-
-- 🌱 I’m currently learning **C#**, **Unity**, *C++** 
-
-- 📫 How to reach me **zdanskystepan@gmail.com**
+- 📫 How to reach me **zdanskystepan@seznam.cz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
